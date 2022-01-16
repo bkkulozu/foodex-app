@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!--
+   training.plist
+   Kulozu_Arslan_Project
+
+   Created by Beste Kulozu on 5.01.2022.
+   Copyright (c) 2022 ___ORGANIZATIONNAME___. All rights reserved.
+-->
+<plist version="1.0">
+    <array>
+        
+        <dict>
+            <key>imga</key>
+            <string>01_img_squad</string>
+        </dict>
+        
+        <dict>
+            <key>imga</key>
+            <string>02_img_benchpress</string>
+        </dict>
+        
+        <dict>
+            <key>imga</key>
+            <string>03_img_deadlift</string>
+        </dict>
+        
+        <dict>
+            <key>imga</key>
+            <string>04_img_overheadpress</string>
+        </dict>
+        
+        <dict>
+            <key>imga</key>
+            <string>05_img_pulldown</string>
+        </dict>
+        
+        <dict>
+            <key>imga</key>
+            <string>06_img_facepulls</string>
+        </dict>
+        
+        <dict>
+            <key>imga</key>
+            <string>07_img_bicepcurl</string>
+        </dict>
+        
+        <dict>
+            <key>imga</key>
+            <string>08_img_calfraises</string>
+        </dict>
+        
+        <dict>
+            <key>imga</key>
+            <string>09_img_crunches</string>
+        </dict>
+        
+        <dict>
+            <key>imga</key>
+            <string>10_img_pushups</string>
+        </dict>
+        
+        <dict>
+            <key>imga</key>
+            <string>11_img_plank</string>
+        </dict>
+        
+        <dict>
+            <key>imga</key>
+            <string>12_img_pullups</string>
+        </dict>
+        
+        <dict>
+            <key>imga</key>
+            <string>13_img_lateralraises</string>
+        </dict>
+        
+        <dict>
+            <key>imga</key>
+            <string>14_img_flatbenchdumbbellpress</string>
+        </dict>
+        
+        <dict>
+            <key>imga</key>
+            <string>15_img_standingbarbellcurl</string>
+        </dict>
+        
+        
+        
+        </array>
+</plist>

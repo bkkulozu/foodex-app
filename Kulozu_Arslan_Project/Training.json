@@ -1,0 +1,22 @@
+[
+    {"times":"3x6", "activityName":"Squads", "purpose":"Boosting iliac muscles.", "imgName":"01_img_squad.jpg", "dayPeriod":"Morning"},
+    {"times":"3x6", "activityName":"BenchPress", "purpose":"Boosting pectoral muscles, illac muscles, back muscles and triceps.", "imgName":"02_img_benchpress.jpg", "dayPeriod":"Morning"},
+    {"times":"2x6", "activityName":"DeadLift", "purpose":"Boosting pectoral muscles, back muscles and triceps.", "imgName":"03_img_deadlift.jpg", "dayPeriod":"Morning"},
+    {"times":"2x8", "activityName":"OverheadPress", "purpose":"Boosting the whole body,especially shoulder muscles and triceps.", "imgName":"04_img_overheadpress.jpg", "dayPeriod":"Morning"},
+    {"times":"3x12", "activityName":"Pull Down", "purpose":"Boosting abdominal muscles, shoulder muscles, back muscles and triceps.", "imgName":"05_img_pulldown.jpg", "dayPeriod":"Morning"},
+
+
+    {"times":"3x10-20", "activityName":" Face Pulls", "purpose":"Boosting trapezius, lateral deltoid and posterior deltoid.", "imgName":"06_img_facepulls.jpg", "dayPeriod":"Afternoon"},
+    {"times":"2x8-15", "activityName":"Bicep Curls", "purpose":"Boosting deltoide, bicipite brachiale and avambraccio muschles.","imgName":"07_img_bicepcurl.jpg", "dayPeriod":"Afternoon"},
+    {"times":"2x8-15", "activityName":"Calf Raises", "purpose":"Boosting highly leg muscles and extensor muscles.","imgName":"08_img_calfraises.jpg", "dayPeriod":"Afternoon"},
+    {"times":"3x10", "activityName":"Crunches", "purpose":"Boosting highly abdominis.","imgName":"09_img_crunches.jpg", "dayPeriod":"Afternoon"},
+    {"times":"3x10-15", "activityName":"Push-Ups", "purpose":"Boosting triceps, extensor muscles and deltoids.", "imgName":"10_img_pushups.jpg", "dayPeriod":"Afternoon"},
+    
+    
+    {"times":"2x30 seconds", "activityName":"Plank", "purpose":"Boosting frontal leg muscles, abdominis and deltoids.", "imgName":"11_img_plank.jpg", "dayPeriod":"Evening/Night"},
+    {"times":"3x8", "activityName":"Pull-Ups", "purpose":"Boosting teres minor,biceps, brachialis and trapezius muscles.", "imgName":"12_img_pullups.jpg", "dayPeriod":"Evening/Night"},
+    {"times":"3x12", "activityName":"Lateral Raises", "purpose":"Boosting lateral deltoid muscles and triceps medial head muschles.", "imgName":"13_img_lateralraises.jpg", "dayPeriod":"Evening/Night"},
+    {"times":"4x10", "activityName":"FlatBench Dumbbell Press", "purpose":"Boosting arterior deltoids, pectorails major and triceps muschles.", "imgName":"14_img_flatbenchdumbbellpress.jpg", "dayPeriod":"Evening/Night"},
+    {"times":"3x14", "activityName":"Standing Barbell Curl", "purpose":"Boosting biceps and brachialis muschles.", "imgName":"15_img_standingbarbellcurl.jpg", "dayPeriod":"Evening/Night"}
+]
+

@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>name</key>
+		<string>Cafelore</string>
+		<key>group</key>
+		<string>Morning</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Donostia</string>
+		<key>group</key>
+		<string>Morning</string>
+	</dict>
+    <dict>
+        <key>name</key>
+        <string>Egg</string>
+        <key>group</key>
+        <string>Morning</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Omlette</string>
+        <key>group</key>
+        <string>Morning</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Wallnutmilk</string>
+        <key>group</key>
+        <string>Morning</string>
+    </dict>
+    
+<!--    <dict>-->
+<!--        <key>name</key>-->
+<!--        <string>vm</string>-->
+<!--        <key>group</key>-->
+<!--        <string>Morning</string>-->
+<!--    </dict>-->
+    
+	<dict>
+		<key>name</key>
+		<string>fiveleaves</string>
+		<key>group</key>
+		<string>Afternoon</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>forkeerestaurant</string>
+		<key>group</key>
+		<string>Afternoon</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>haighschocolate</string>
+		<key>group</key>
+		<string>Afternoon</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>fruitplate</string>
+		<key>group</key>
+		<string>Afternoon</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>salad</string>
+		<key>group</key>
+		<string>Evening</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>tunafish</string>
+		<key>group</key>
+		<string>Evening</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>fixedsalad</string>
+		<key>group</key>
+		<string>Evening</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>cookieplate</string>
+		<key>group</key>
+		<string>Evening</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>fiberplate</string>
+		<key>group</key>
+		<string>Evening</string>
+	</dict>
+    
+    <dict>
+        <key>name</key>
+        <string>csweatcornsoup</string>
+        <key>group</key>
+        <string>Evening</string>
+    </dict>
+    
+    <dict>
+        <key>name</key>
+        <string>meatomatosoup</string>
+        <key>group</key>
+        <string>Evening</string>
+    </dict>
+    
+</array>
+</plist>
